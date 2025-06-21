@@ -6,6 +6,6 @@
 📫 Contact: baos2019731@gmail.com | [Resume](link-to-resume)
 
 ### 🔍 Featured Projects
-- [Celebrity Look-Alike Finder](link) - AI facial similarity matcher using DeepFace
-- [Car Damage Assessment](link) - Multi-API vehicle damage visualizer
-- [ShareLoop](link) - Real-time message exchange platform
+- [Celebrity Look-Alike Finder](https://github.com/Gems2019/face-ai-project) - AI facial similarity matcher using DeepFace
+- [Car Damage Assessment](https://github.com/Gems2019/Car-Damage-Assessment) - Multi-API vehicle damage visualizer
+- [ShareLoop](https://github.com/Gems2019/ShareLoop) - Real-time message exchange platform
